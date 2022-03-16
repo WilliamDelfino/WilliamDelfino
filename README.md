@@ -5,7 +5,7 @@
 
 
     📚 Estudante de Análise e Desenvolvimento de Sistema
-    🌱 Estudando Java e Python
+    🌱 Estudando JavaScript e ReactJS
     
     
     ⚡ Discord: WiLL#4048
