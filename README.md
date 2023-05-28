@@ -1,13 +1,11 @@
-### Opa! Eu sou o William Delfino ![ezgif-5-a61b09ee00](https://user-images.githubusercontent.com/101029774/156908317-5a5d563d-6224-4bf2-a0cd-1a3faede66e6.gif)
-
-
-
+### Olá! Eu sou o William Delfino ![ezgif-5-a61b09ee00](https://user-images.githubusercontent.com/101029774/156908317-5a5d563d-6224-4bf2-a0cd-1a3faede66e6.gif)
 
 
     📚 Estudante de Análise e Desenvolvimento de Sistema
     🌱 
     
     
+    📫 E-mail: williambdr2@gmail.com
     ⚡ Discord: WiLL#4048
 
 
